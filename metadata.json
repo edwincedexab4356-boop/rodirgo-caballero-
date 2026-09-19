@@ -1,0 +1,6 @@
+{
+  "name": "AGROGESTIÓN - Sistema de Gestión Ganadera",
+  "description": "Sistema privado y profesional para la gestión integral y control operativo de explotaciones ganaderas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
